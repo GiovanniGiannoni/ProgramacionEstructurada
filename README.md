@@ -35,7 +35,11 @@ Las estructuras de repetición son fundamentales en cualquier lenguaje de progra
 
 ## 🔁 Estructuras Implementadas
 
+---
+
 ### 🔹 Bucle for: Contador simple
+
+---
 
 ```java
 for (int i = 1; i <= 10; i++) {
