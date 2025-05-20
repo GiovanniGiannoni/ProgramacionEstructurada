@@ -42,6 +42,7 @@ for (int i = 1; i <= 10; i++) {
     System.out.println("Número: " + i);
 }
 
+---
 Muestra los primeros 10 números enteros, ilustrando el uso de un contador.
 
 ### 🔹 Bucle while: Acumulador con condición
@@ -51,7 +52,7 @@ while (numero != 0) {
     suma += numero;
     // ...
 }
-
+---
 Suma todos los números ingresados por el usuario hasta que se ingresa un 0.
 
 ### 🔹 Bucle do-while: Validación de entrada
@@ -61,7 +62,7 @@ do {
     System.out.print("Ingrese su edad (positiva): ");
     edad = sc.nextInt();
 } while (edad <= 0);
-
+---
 Solicita una edad y asegura que sea un número positivo.
 
 ### 🔹 Bucle for: Contador simple
@@ -70,7 +71,7 @@ Solicita una edad y asegura que sea un número positivo.
 for (int i = 1; i <= 10; i++) {
     System.out.println("Número: " + i);
 }
-
+---
 Genera las tablas de multiplicar del 1 al 3 usando bucles anidados.
 
 ---
