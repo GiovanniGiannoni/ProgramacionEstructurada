@@ -6,16 +6,16 @@ Este proyecto tiene como objetivo demostrar el uso práctico de las estructuras 
 
 ## 📚 Tabla de Contenidos
 
-- [Introducción](#introducción)
-- [Objetivos](#objetivos)
-- [Estructuras Implementadas](#estructuras-implementadas)
-  - [Bucle for](#bucle-for-contador-simple)
-  - [Bucle while](#bucle-while-acumulador-con-condición)
-  - [Bucle do-while](#bucle-do-while-validación-de-entrada)
-  - [Bucles anidados](#bucles-anidados-tablas-de-multiplicar)
-- [Validación de entradas](#validación-de-entradas)
-- [Ejercicio de repaso](#ejercicio-final-dibujo-con-bucles-anidados)
-- [Conclusión y aprendizaje](#conclusión-y-aprendizaje)
+- [Introducción](#💡-Introducción)
+- [Objetivos](#🎯-objetivos)
+- [Estructuras Implementadas](#🔁-Estructuras-Implementadas)
+  - [Bucle for](#🔹-Bucle-for-contador-simple)
+  - [Bucle while](#🔹-bucle-while-acumulador-con-condición)
+  - [Bucle do-while](#🔹-bucle-do-while-validación-de-entrada)
+  - [Bucles anidados](#🔹-bucles-anidados-tablas-de-multiplicar)
+- [Validación de entradas](#📐-validación-de-entradas)
+- [Ejercicio de repaso](#📦-ejercicio-final-dibujo-con-bucles-anidados)
+- [Conclusión y aprendizaje](#✅-conclusión-y-aprendizaje)
 
 ---
 
