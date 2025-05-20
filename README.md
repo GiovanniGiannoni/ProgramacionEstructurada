@@ -44,9 +44,11 @@ for (int i = 1; i <= 10; i++) {
 }
 ```
 
+Muestra los primeros 10 números enteros, ilustrando el uso de un contador.
+
 ---
 
-Muestra los primeros 10 números enteros, ilustrando el uso de un contador.
+
 
 ### 🔹 Bucle for: Contador simple
 
