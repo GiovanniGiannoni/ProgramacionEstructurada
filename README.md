@@ -41,7 +41,10 @@ Las estructuras de repetición son fundamentales en cualquier lenguaje de progra
 ```java
 for (int i = 1; i <= 10; i++) {
     System.out.println("Número: " + i);
-}```
+}
+```
+
+---
 
 Muestra los primeros 10 números enteros, ilustrando el uso de un contador.
 
